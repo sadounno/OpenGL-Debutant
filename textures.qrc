@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Textures/brick001.jpg</file>
+        <file>Textures/brick56x56grs.jpg</file>
+        <file>Textures/Caisse2.jpg</file>
+        <file>Textures/Caisse56x56.jpg</file>
+        <file>Textures/crate13.jpg</file>
+        <file>Textures/Herbe.jpg</file>
+        <file>Textures/parquetBlanc.jpg</file>
+        <file>Textures/Caisse64x64jpg.jpg</file>
+        <file>Textures/Caisse128x128jpg.jpg</file>
+        <file>Textures/Caisse32x32jpg.jpg</file>
+    </qresource>
+</RCC>
